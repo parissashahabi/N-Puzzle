@@ -1,0 +1,9 @@
+t13.txt 
+
+Dijkstra: 
+time 2.36879210
+Act 0
+
+Bidirectional: 
+time 7.23188600
+Act 0

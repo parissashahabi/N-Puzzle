@@ -1,0 +1,15 @@
+t3.txt 
+
+Dijkstra: 
+time 0.00009250
+Act 1
+
+ 1 *
+ 3 2
+
+Bidirectional: 
+time 0.00008720
+Act 1
+
+ 1 *
+ 3 2

@@ -1,0 +1,9 @@
+t2.txt 
+
+Dijkstra: 
+time 0.00007210
+Act 0
+
+Bidirectional: 
+time 0.00006210
+Act 0

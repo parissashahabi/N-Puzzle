@@ -1,0 +1,9 @@
+t4.txt 
+
+Dijkstra: 
+time 2.34501960
+Act 0
+
+Bidirectional: 
+time 7.56449270
+Act 0

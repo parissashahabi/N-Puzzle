@@ -1,0 +1,9 @@
+t7.txt 
+
+Dijkstra: 
+time 2.38409840
+Act 0
+
+Bidirectional: 
+time 7.31277930
+Act 0
